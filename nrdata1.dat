@@ -1,7 +1,5 @@
-MATRICES FOR INPUT TO TEST ROUTINES
-Size of matrix (NxN), Number of solutions:
-11,2
-Matrix A:
+data1
+11 2
 0.00000,  0.00000,
 0.10000,  0.00517,
 0.20000,  0.02140,
