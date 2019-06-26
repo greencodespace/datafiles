@@ -1,0 +1,9 @@
+       ,Sun and distance,Equatorial radius, Pole radius, vel of escape, vel of space, number of satellite
+Mercury,58,24393,2439,4.3,172410,0
+Venus,108,6050,6050,10.3,126110,0
+Earth,150,6378,6356,11.2,107250,1
+Mars,229,3397,3377,5,86870,2
+Jupiter,779,71398,66850,59.5,47020,12
+Saturn,1427,60000,53880,35.6,34710,10
+Uranus,2871,26145,25500,21.2,24520,5
+Neptune,4497,24300,23654,23.6,19550,2

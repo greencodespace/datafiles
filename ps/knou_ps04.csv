@@ -1,0 +1,18 @@
+name,local,subject,quantity,unit price,saleprice
+Mr.Kim,east,RADIO,18,100,1000
+Mr.Kim,east,TV,4,200,2000
+Mr.Kim,east,COMPUTER,34,300,3000
+Mr.Lee,west,RADIO,24,200,2000
+Mr.Lee,west,TV,35,300,3000
+Mr.Park,south,COMPUTER,28,340,3400
+Mr.Park,south,RADIO,13,130,1300
+Mr.Park,south,VCD,4,40,400
+Mr.Jung,north,COMPUTER,8,80,800
+Mr.Jung,north,VCD,18,180,1800
+Mr.Jung,north,RADIO,35,350,4000
+Mr.Jung,north,TV,40,40,4000
+Mr.Chei,free,RADIO,13,130,1300
+Mr.Chei,free,VCD,7,70,700
+Mr.Chei,free,VCD,24,240,2400
+Mr.Chei,free,TV,18,180,1800
+Mr.Chei,free,COMPUTER,34,340,3400
